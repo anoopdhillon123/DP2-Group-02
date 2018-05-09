@@ -1,0 +1,12 @@
+Total Motor Rotation (degrees)          Direction of Motor Rotation             Total Finger rotation (degrees)         Position of Fingers (mm) From Point of Contact
+
+1                           72                  Counter Clockwise                                           16                                                36
+2                          144                  Counter Clockwise                                           32                                                67
+3                          216                          Clockwise                                           49                                                78
+4                          288                          Clockwise                                           65                                                51
+5                          360                          Clockwise                                           82                                                17
+6                          432                  Counter Clockwise                                           98                                                19
+7                          504                  Counter Clockwise                                          115                                                53
+8                          576                  Counter Clockwise                                          131                                                80
+9                          648                          Clockwise                                          148                                                65
+10                         720                          Clockwise                                          164                                                34
